@@ -77,3 +77,20 @@ body {
                 4px 4px 0px #03e2f1,
                 5px 5px 0px #190244;
 }
+.perfil{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+.titulo2{
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow:
+        1px 1px 0px #333333,
+        2px 2px 0px #333333,
+        3px 3px 0px #333333,
+        4px 4px 0px #333333,
+        5px 5px 0px #333333;
+}
