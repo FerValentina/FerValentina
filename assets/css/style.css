@@ -94,3 +94,24 @@ body {
         4px 4px 0px #333333,
         5px 5px 0px #333333;
 }
+.trabajos{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 5em;
+    position: relative !important;
+}
+.carrusel{
+    display: flex;
+    z-index: 1000;   
+}
+.card{
+    margin: 3em;
+    align-items: center;
+    border: 0.5em solid #333333;
+    box-shadow: 10px 5px 1px  rgba(1, 243, 243,0.9);
+}
+.card-img-top {
+    width: 70%;
+    padding: 1em;
+}
