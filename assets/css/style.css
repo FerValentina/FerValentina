@@ -87,6 +87,7 @@ body {
     font-size: 50px;
     font-weight: bold;
     color: #FFFFFF;
+    text-align: center;
     text-shadow:
         1px 1px 0px #333333,
         2px 2px 0px #333333,
@@ -118,4 +119,12 @@ body {
 #contacto{
     background-color: #07bfcf;
     box-shadow: 10px 5px 1px  rgba(170, 3, 185, 0.9);
+}
+.estudios {
+    
+    margin: 3em;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2em;
+    
 }
