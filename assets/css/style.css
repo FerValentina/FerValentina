@@ -115,3 +115,7 @@ body {
     width: 70%;
     padding: 1em;
 }
+#contacto{
+    background-color: #07bfcf;
+    box-shadow: 10px 5px 1px  rgba(170, 3, 185, 0.9);
+}
