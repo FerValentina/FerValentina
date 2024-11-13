@@ -6,6 +6,7 @@
 body{
     background-image: url(../img/4NB4.gif);
     background-color: black;
+    
 }
 .navbar {
     background-color: #333;
@@ -55,6 +56,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 5em; 
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: 1em;
 }
@@ -62,8 +64,8 @@ body {
     width: 30%;
     border-radius: 50%;
     border: 3px solid rgb(5, 168, 168);
-    background: linear-gradient(45deg, rgb(139, 2, 133), rgb(117, 3, 121), rgb(94, 0, 148), rgb(89, 0, 255), rgb(28, 0, 128));
-    box-shadow: 10px 5px 1px  rgba(1, 243, 243,0.9);
+    /* background: linear-gradient(45deg, rgb(139, 2, 133), rgb(117, 3, 121), rgb(94, 0, 148), rgb(89, 0, 255), rgb(28, 0, 128)); */
+    box-shadow: 5px 5px 3px #03e2f1,10px 8px 3px  #e903d6, 15px 11px 3px #5909da;
 }
 .nombre{
     padding-top: 3em;
