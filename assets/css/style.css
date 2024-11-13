@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url(../img/4NB4.gif);
     background-color: black;
 }
 .navbar {
