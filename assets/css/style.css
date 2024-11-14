@@ -63,16 +63,18 @@ body {
 }
 
 .foto{
+    margin-top: 1em;
     width: 70%;
+    margin-left: 20%;
     border-radius: 50%;
     border: 3px solid rgb(5, 168, 168);
     /* background: linear-gradient(45deg, rgb(139, 2, 133), rgb(117, 3, 121), rgb(94, 0, 148), rgb(89, 0, 255), rgb(28, 0, 128)); */
     box-shadow: 5px 5px 3px #03e2f1,10px 8px 3px  #e903d6, 15px 11px 3px #5909da;
 }
 .nombre{
-    padding-top: 0.5em;
-    padding-bottom: 1em;
-    font-size: 40px;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    font-size: 50px;
     font-weight: bold;
     color: #FFFFFF;
     text-shadow:
@@ -81,6 +83,9 @@ body {
                 3px 3px 0px #e903d6,
                 4px 4px 0px #03e2f1,
                 5px 5px 0px #190244;
+}
+.texto{
+   margin-top: 20%;
 }
 .perfil{
     color: aliceblue;
