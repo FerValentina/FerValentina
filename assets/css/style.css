@@ -28,8 +28,7 @@ body{
 .navbar-brand {
     font-size: 1.5em;
     font-weight: bold;
-    color: #d485d2;
-    
+    color: #d485d2;        
 }
 .navbar-links {
     list-style: none;
@@ -142,5 +141,13 @@ body {
 }
 .table{
     width: 60%;
+    
+}
+.textolab{
+    color: #d9b1d8;
+    text-align: center;
+    margin: 3em;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
